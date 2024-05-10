@@ -4,7 +4,7 @@
 
 ## 💻 Sobre
 
-Projeto feito no intuito de me disponibilizar meus contatos.
+Projeto feito no intuito de divulgar e organizar contatos.
 
 ## 🤯 O site é composto por:
 
