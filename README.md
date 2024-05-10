@@ -2,7 +2,7 @@
 
 ![Captura de tela 2024-05-10 145005](https://github.com/juniorlimadev/portifolio/assets/99328261/f3da119e-0504-44c1-9d8f-d95028325977)
 
-<a href="https://contatosjuniorlima.netlify.app/"> Link do site </a>
+<a href="https://contatosjuniorlima.netlify.app/" target="_blank"> Visite o site </a>
 
 ## 💻 Sobre
 
