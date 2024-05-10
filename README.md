@@ -22,15 +22,4 @@ Neste projeto apliquei os seguintes pontos:
 + Pontos de acessibilidade;
 + Responsividade;
 + Organização do Código;
----
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/lucyanovidio.png" width="100px" />
-    </td>
-    <td>
-      Feito por <a href="https://github.com/juniorlimadev">Junior Lima.</a> 🙋🏿‍♂️
-    </td>
-  </tr>
-</table>
