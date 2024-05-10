@@ -1,4 +1,4 @@
-# 📬 MEUS CONTATOS:
+<h1 align="center">Meus contatos 📬</h1>
 ![Captura de tela 2024-05-10 145005](https://github.com/juniorlimadev/portifolio/assets/99328261/f3da119e-0504-44c1-9d8f-d95028325977)
 ## 💻 Sobre
 
@@ -22,3 +22,15 @@ Neste projeto apliquei os seguintes pontos:
 + Pontos de acessibilidade;
 + Responsividade;
 + Organização do Código;
+---
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/lucyanovidio.png" width="100px" />
+    </td>
+    <td>
+      Feito por <a href="https://github.com/juniorlimadev">Junior Lima.</a> 🙋🏿‍♂️
+    </td>
+  </tr>
+</table>
