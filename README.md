@@ -33,7 +33,7 @@ Neste projeto apliquei os seguintes pontos:
       <img src="https://github.com/juniorlimadev/portifolio/assets/99328261/3e4a2252-2fa0-47fe-a306-561f9a599206" width="100px" />
     </td>
     <td>
-      Feito por <a href="https://github.com/juniorlimadev">Junior Lima.</a> 🙋🏿‍♂️
+      Feito por <a href="https://github.com/juniorlimadev">Junior Lima.</a> 🙋🏻‍♂️
     </td>
   </tr>
 </table>
